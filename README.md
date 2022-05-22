@@ -2,7 +2,7 @@
 # Hello there ! 👋
 <h3 align="center">A passionate software developer from India</h3>
 
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif))](https://rishavchanda.io)
 
 # 👨🏻‍💻About me
 - 💡 I'm a software developer, working on production of trading applications using the Kotlin or Java.
