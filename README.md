@@ -2,7 +2,8 @@
 # Hello there ! 👋
 <h3 align="center">A passionate software developer from India</h3>
 
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif")
+<a href="https://twitter.com/viss_rajora" target="blank"><img align="center" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="viss_rajora" height="30" width="40" /></a>
+
 
 # 👨🏻‍💻About me
 - 💡 I'm a software developer, working on production of trading applications using the Kotlin or Java.
@@ -14,8 +15,6 @@
 - 🌱 I'm on track for learning more about Android, AI and other tech skill.
 - ✍️ In my free time, I play guitar, football and pursue writing as my hobbies.
 - 💬 Feel free to reach out to me for general consulting, or discussions on the Android topic!
-
-
 
 
 ## 🚀 Skills and technologies I'm proficient at
