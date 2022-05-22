@@ -2,8 +2,6 @@
 # Hello there ! 👋
 <h3 align="center">A passionate software developer from India</h3>
 
-<a href="https://twitter.com/viss_rajora" target="blank"><img align="center" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="viss_rajora" height="30" width="40" /></a>
-
 
 # 👨🏻‍💻About me
 - 💡 I'm a software developer, working on production of trading applications using the Kotlin or Java.
